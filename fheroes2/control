@@ -1,0 +1,10 @@
+Package: fheroes2
+Version: 
+Description: RetroFW port of Free Heroes 2 Engine
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/fheroes2
+Depends:
+Source: https://github.com/retrofw/fheroes2

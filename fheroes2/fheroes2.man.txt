@@ -1,0 +1,61 @@
+Fheroes2 Dingoo A320 Linux (Dingux) port by Zear.
+Source included.
+
+
+About
+-----
+
+Fheroes2 is a free implementation of Heroes of Might and Magic II engine
+written in SDL.
+Dingux port uses the pocketpc version of the GUI, which is designed to run
+at 320x240 screen resolution.
+
+
+How to make it run
+------------------
+
+Copy the original data/*.agg into the data directory.
+Copy the maps files (*.mp2) into the maps directory.
+
+
+Controls
+--------
+
+Global:
+* D-PAD		- move cursor
+* A		- cursor click
+
+Menu:
+* SELECT	- go back/quit game
+* START		- accept
+
+In-game:
+* B		- cast a spell
+* X		- next hero
+* Y		- hero/town dialog
+* L		- mini-map
+* R		- hero/town selection
+* SELECT	- game menu
+* START		- end turn
+
+
+Credits
+-------
+
+See the AUTHORS file for the original authors list.
+Dingux port brought by Zear (zeartul@gmail.com).
+
+
+Changelog
+---------
+
+Release #1 01/06/2010
+* initial release based on SVN r1898
+
+
+To-do list
+----------
+
+* fix the resolution of the in-game screen
+* improve mouse emulation
+

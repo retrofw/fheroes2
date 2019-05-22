@@ -1,0 +1,4 @@
+title=FHeroes2
+description=Free Heroes 2 Engine port
+exec=/home/retrofw/games/fheroes2/fheroes2.elf
+clock=600
