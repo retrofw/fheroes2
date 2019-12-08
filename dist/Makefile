@@ -6,7 +6,7 @@ ifeq ($(PREFIX),)
 PREFIX := /usr/local
 endif
 
-TARGET := ../fheroes2/fheroes2.elf
+TARGET := ../fheroes2/fheroes2.dge
 LIBENGINE := ../engine/libengine.a
 CFLAGS := $(CFLAGS) -I../engine
 
